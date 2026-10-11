@@ -124,3 +124,39 @@ Potential future improvements could include:
 - Recruitment analytics
 - Integration with additional recruitment platforms
 - More advanced AI-assisted candidate communication
+
+- ---
+
+# Project 2 — AI Feedback Intelligence Engine
+
+An n8n-based customer feedback automation system designed to collect, analyse, and route customer feedback for a fictional multi-location car-care business.
+
+The workflow combines Google Sheets, Gmail, conditional logic, and Google Gemini to analyse customer feedback, identify repeat negative feedback, route cases, and prepare responses for human review.
+
+## What This Project Demonstrates
+
+- AI-powered feedback analysis
+- Google Gemini integration
+- n8n workflow automation
+- Google Sheets integration
+- Sentiment scoring
+- Feedback severity classification
+- Repeat negative feedback detection
+- Conditional routing
+- Automated manager alerts
+- AI-assisted response drafting
+- Human review workflows
+
+## Workflow Screenshot
+
+[View the Feedback Intelligence Engine workflow](./project-2-feedback-intelligence-engine/feedback-intelligence-workflow.png)
+
+## Project Documentation
+
+[View the full Project 2 documentation](./project-2-feedback-intelligence-engine/README.md)
+
+## Security
+
+No API keys, passwords, access tokens, or private credentials are included in this repository.
+
+---
